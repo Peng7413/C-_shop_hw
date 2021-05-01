@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw6\107590046_hw6\main.cpp(97): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw6\107590046_hw6\main.cpp(102): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  107590046_HW6.vcxproj -> C:\Users\user\Desktop\py c 作業\C++作業\107590046_HW6\x64\Debug\107590046_HW6.exe

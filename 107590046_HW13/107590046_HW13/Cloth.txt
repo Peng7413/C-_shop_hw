@@ -1,0 +1,18 @@
+Shop UNIQLO:
+0, Men's bristles (long sleeves), bristle jackets (one of which is made of wool and nylon), 1490
+1, Women's bristles (long sleeves), bristle jackets (one of which is made of wool and nylon), 1490
+2, Single Men, Good Men's bristles, Suite, 0
+3, One bristles, one bristles, Suite, 0
+Shop ZARA:
+4, Men's HYBRID down coat, moisture absorbing hot cotton and down material, 3990
+5, Women's HYBRID down coat, moisture absorbing hot cotton and down material, 3990
+6, Men's COLOR RHYTHM UT, They use geometric shapes and colors to create passionate and beautiful works, 590
+7, Women's COLOR RHYTHM UT, They use geometric shapes and colors to create passionate and beautiful works, 590
+8, Double COLOR RHYTHM UT, Description, Suite, 4, 5
+9, Double down coat, two down coat, Suite, 4, 5
+Shop H&M:
+10, Men's bristled casual tops (long sleeves), one with a unique design, 790
+11, Women's bristled casual tops (long sleeves), one with a unique design, 790
+12, Men's bristles without collar open jacket, Internal and external bristles enhance warmth, 1990
+13, Women's bristles without collar open jacket, Internal and external bristles enhance warmth, 1990
+14, Multiple bristles, more than one bristles, Suite, 10, 11, 12

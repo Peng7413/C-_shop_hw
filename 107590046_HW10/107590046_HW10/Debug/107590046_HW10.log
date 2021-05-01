@@ -1,0 +1,8 @@
+﻿  Mall.cpp
+  MallUI.cpp
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw10\107590046_hw10\mallui.cpp(13): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw10\107590046_hw10\mallui.cpp(38): warning C4018: '<': signed/unsigned 不相符
+  ShopUI.cpp
+  main.cpp
+  正在產生程式碼...
+  107590046_HW10.vcxproj -> C:\Users\user\Desktop\py c 作業\C++作業\107590046_HW10\Debug\107590046_HW10.exe

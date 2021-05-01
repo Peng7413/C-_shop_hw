@@ -1,0 +1,5 @@
+﻿  ShopUI.cpp
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw8\107590046_hw8\shopui.cpp(35): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw8\107590046_hw8\shopui.cpp(40): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\py c 作業\c++作業\107590046_hw8\107590046_hw8\shopui.cpp(69): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  107590046_HW8.vcxproj -> C:\Users\user\Desktop\py c 作業\C++作業\107590046_HW8\x64\Debug\107590046_HW8.exe
